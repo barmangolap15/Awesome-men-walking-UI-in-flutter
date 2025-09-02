@@ -1,10 +1,10 @@
-### Awesome Men Walking UI — Flutter
+# Awesome Men Walking UI — Flutter
 
 A small, playful Flutter UI that shows a smooth “men walking” animation + nice bottom navigation.
 Built with o3d, google_fonts, google_nav_bar and line_icons — perfect as a UI demo, portfolio piece, or starting point for an animated landing screen.
 
 
-# Features
+### Features
 
 Smooth animated “men walking” scene (looping, responsive).
 
